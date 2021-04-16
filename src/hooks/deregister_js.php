@@ -2,7 +2,7 @@
 
 //  ┌──────────────────────────────────────┐ 
 //  │                                      │░
-//  │   Dequeue & Deregister CSS Styles    │░
+//  │   Dequeue & Deregister JS Scripts    │░
 //  │                                      │░
 //  └──────────────────────────────────────┘░
 //   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -18,7 +18,7 @@ function ldnpk_deregister_js_scripts() {
     // wp_deregister_script( "es6-shim" );
     // wp_deregister_script( "es7-shim" );
     // wp_deregister_script( "devowl-wp-utils" );
-    // wp_deregister_script( 'wp-embed' );
+    wp_deregister_script( 'wp-embed' );
     // wp_deregister_script( 'thickbox' );
     // wp_deregister_script( 'wpb_composer_front_js' );
     // wp_deregister_script( "react" );

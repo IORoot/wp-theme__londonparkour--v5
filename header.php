@@ -23,12 +23,7 @@
 
 	<body <?php body_class('londonparkour ' . $body_classes ); ?>>
 
-		<?php 
-		include( __DIR__.'/src/components/tagmanager/tagmanager.php' );
-		?>
-
 		<header>
-			<?php include( __DIR__.'/src/components/progress-bar/progress-bar.php' );  ?>
 
 			<nav class="h-16 bg-night flex">
 

@@ -10,7 +10,9 @@
 				<?php 
 					do_action('page_builder_footer_code'); 
 					wp_footer(); 
+					include( __DIR__.'/src/components/tagmanager/tagmanager.php' );
 				?>
+
 			</div>
 			
 		</footer>

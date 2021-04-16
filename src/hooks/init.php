@@ -66,6 +66,11 @@ require get_template_directory() . '/src/hooks/deregister_css.php';
 require get_template_directory() . '/src/hooks/deregister_js.php';
 
 /**
+ * Remove jQuery
+ */
+require get_template_directory() . '/src/hooks/deregister_jQuery.php';
+
+/**
  * Remove jquery migrate
  */
 require get_template_directory() . '/src/hooks/deregister_jquery_migrate.php';
