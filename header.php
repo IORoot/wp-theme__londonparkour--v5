@@ -20,6 +20,7 @@
 			wp_head(); 
 			do_action('page_builder_header_code'); 
 		?>
+		<?php include( __DIR__.'/src/components/favicons/favicons.php' );  ?>
 	</head>
 
 
