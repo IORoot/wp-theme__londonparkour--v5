@@ -17,6 +17,7 @@
             }
 
             include( __DIR__.'/logo.svg' );
+            include( __DIR__.'/down.svg' );
             include( __DIR__.'/h-logo-text.svg' );
             include( __DIR__.'/star.svg' );
             include( __DIR__.'/stripe.svg' );
