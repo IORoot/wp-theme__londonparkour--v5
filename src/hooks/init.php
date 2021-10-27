@@ -112,3 +112,8 @@ require get_template_directory() . '/src/hooks/contact_success_message.php';
  * This is so the REST to parkourpulse and parkourlabs work.
  */
 require get_template_directory() . '/src/hooks/disable_curl_ssl_verify.php';
+
+/**
+ * Disable XML-RPC
+ */
+require get_template_directory() . '/src/hooks/disable_xmlrpc.php';
