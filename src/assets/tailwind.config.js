@@ -1,8 +1,9 @@
 module.exports = {
 
   purge: {
+    enabled: true,
     content: [
-      './css/file_scans/files/**/*.html',
+      './css/file_scans/files/*.html',
     ],
   },
   
