@@ -100,6 +100,10 @@ module.exports = {
         'BlueGrey400' : theme('colors.BlueGrey400'),
       }),
 
+      height: theme => ({
+        "128": "32rem;",
+        "192": "47rem;",
+      }),
     },
   },
 
