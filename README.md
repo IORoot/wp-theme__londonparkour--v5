@@ -1,5 +1,4 @@
 
-
 <div id="top"></div>
 
 <div align="center">
@@ -29,7 +28,8 @@
 * 7. [License](#License)
 * 8. [Contact](#Contact)
 * 9. [Changelog](#Changelog)
-	* 9.1. [v2.0.0](#v2.0.0)
+	* 9.1. [New version 5.0.0](#Newversion5.0.0)
+	* 9.2. [Veresion 4.0.0](#Veresion4.0.0)
 
 
 ##  2. <a name='AboutTheProject'></a>About The Project
@@ -178,11 +178,11 @@ Author Link: [https://github.com/IORoot](https://github.com/IORoot)
 
 ##  9. <a name='Changelog'></a>Changelog
 
-### New version 5.0.0
+###  9.1. <a name='Newversion5.0.0'></a>New version 5.0.0
 
 - TailwindCSS
 - Anime.js
 
-### Veresion 4.0.0
+###  9.2. <a name='Veresion4.0.0'></a>Veresion 4.0.0
 
 This can be found at [https://github.com/IORoot/wp-theme__londonparkour--v4](https://github.com/IORoot/wp-theme__londonparkour--v4)
