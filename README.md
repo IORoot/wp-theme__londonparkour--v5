@@ -59,7 +59,7 @@ These are the steps to get up and running with this theme.
 
 1. Clone the repo into your wordpress plugin folder
     ```sh
-    git clone https://github.com/IORoot/wp-theme__londonparkour--v5 ./wp-content/themes/parkourlabs
+    git clone https://github.com/IORoot/wp-theme__londonparkour--v5 ./wp-content/themes/londonparkour
     ```
 1. Enable the theme in wordpress.
 
