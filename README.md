@@ -183,6 +183,6 @@ Author Link: [https://github.com/IORoot](https://github.com/IORoot)
 - TailwindCSS
 - Anime.js
 
-###  9.2. <a name='Veresion4.0.0'></a>Veresion 4.0.0
+###  9.2. <a name='Version4.0.0'></a>Version 4.0.0
 
 This can be found at [https://github.com/IORoot/wp-theme__londonparkour--v4](https://github.com/IORoot/wp-theme__londonparkour--v4)
